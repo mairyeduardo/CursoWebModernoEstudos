@@ -1,5 +1,7 @@
 const variavel = "Cod3r"
 
+console.log(variavel.toString());
+
 console.log(variavel.charAt(4));
 console.log(variavel.charAt(5));
 console.log(variavel.indexOf('3'));
