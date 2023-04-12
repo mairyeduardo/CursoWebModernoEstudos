@@ -8,4 +8,4 @@ function rand({min = 0, max = 1000}) {
     console.log(rand(obj))
     console.log(rand({ min: 995}))
     console.log(rand({}))
-    console.log(rand()) // ERRO 
+    console.log(rand()) // falha 
