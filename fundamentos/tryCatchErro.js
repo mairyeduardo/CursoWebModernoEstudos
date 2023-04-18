@@ -24,4 +24,3 @@ function tratarErroElancar(erro){
     const obj = { name: 'Roberto' }
     imprimirNomeCAPS(obj)
     
-    

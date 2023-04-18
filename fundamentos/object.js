@@ -15,3 +15,4 @@ produto2['Desconto'] = 0.40
 //
 console.log(produto1)
 console.log(produto2)
+

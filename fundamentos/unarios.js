@@ -25,4 +25,3 @@ let base = 2
 base **= 3 // Eleva o valor armazenado na base à terceira potencia.
 
 console.log(base) // 2³ = 8
-
