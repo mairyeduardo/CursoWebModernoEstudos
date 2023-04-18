@@ -15,3 +15,4 @@ function teste2(numero) {
 
 teste2(6)
 teste2(8)
+teste2(10)
